@@ -31,11 +31,6 @@
   
 - Explore it here: zoeportfolio.online
 
-### 🔍 DataLab SDK (Open Source)
-- Contributed to an NLP research platform by optimizing preprocessing functions, reducing processing time by 30%.
-  
-- Developed unit tests with 90%+ code coverage and integrated preprocessing with the main API module.
-
 ## 💼 Professional Experience
 ### Software Engineer Intern @ 1 Thing Org
 - Built end-to-end features for a social networking MVP using React Native and Firebase.
